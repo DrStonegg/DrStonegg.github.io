@@ -1,0 +1,21 @@
+.article_content{
+    font-size: 1.1rem;
+    text-indent: 2rem;
+
+}
+.article_title{
+    font-size: 3rem;
+    color: #fff
+}
+.article_subtitle{
+    color: #dcdcdc;
+
+}
+p{
+    color: #d6d6d6
+}
+@media screen and (max-width: 359px){
+    .article_title{
+        font-size: 2rem;
+    }
+}
